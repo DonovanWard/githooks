@@ -1,0 +1,9 @@
+2016-05-11 17:36:47,400 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: githooks:githooks:0.0.1-SNAPSHOT @ /Users/warddo/Documents/test_projects/githooks_repo/githooks/githooks/pom.xml.
+2016-05-11 17:36:47,671 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /githooks/src/main/java
+2016-05-11 17:36:47,672 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /githooks/src/main/resources
+2016-05-11 17:36:47,673 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /githooks/src/test/java
+2016-05-11 17:36:47,673 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /githooks/src/test/resources
+2016-05-11 17:36:47,987 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 17:36:47,994 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 17:36:47,995 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 17:36:47,995 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
